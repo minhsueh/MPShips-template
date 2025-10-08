@@ -14,6 +14,8 @@ Choose your project name: in this example, I am using `cool-app` and `cool_app`
 5. `python -m venv .venv`
 6. `source .venv/bin/activate`
 7. `pip install -r requirements.txt`
+8. change `<YOUR_MP_API_KEY>` to your mp api key
+`echo 'MP_API_KEY=<YOUR_MP_API_KEY>' >> .env`
 
 
 
