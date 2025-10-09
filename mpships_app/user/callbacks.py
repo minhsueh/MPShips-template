@@ -4,4 +4,4 @@ mpr = get_mpr()
 
 
 def register_callbacks(app):
-    raise NotImplementedError
+    pass

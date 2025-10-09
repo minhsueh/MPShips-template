@@ -1,7 +1,10 @@
 from core.utils import get_mpr
+from dash import html
 
 mpr = get_mpr()
 
 
 def build_layout(app):
-    raise NotImplementedError
+    return html.Div(
+        html.H2(["Your cool design should be here!"]), style={"textAlign": "center"}
+    )

@@ -28,7 +28,8 @@ Now start building your app code in the files under `mpships_app/user/` describe
 
 #### Local testing
 ```
-python run.py
+python run.py # See your own design
+python run.py --use_sample # See the sampled app
 ```
 
 #### Where to put your code
