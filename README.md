@@ -1,6 +1,3 @@
-# MPShips-v2
-
-
 ## Quick start
 #### Setup
 Choose names: in this example, we’ll use the repo name `cool-app`.
