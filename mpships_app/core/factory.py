@@ -8,7 +8,7 @@ def create_app() -> Dash:
     app = Dash(__name__, suppress_callback_exceptions=True, use_pages=False)
 
     try:
-        parent = (Path(__file__).parent / "..").resolve()
+        parent = (Path(__file__).parent.parent).resolve()
         if str(parent) not in sys.path:
             sys.path.insert(0, str(parent))
 

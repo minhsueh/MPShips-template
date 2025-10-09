@@ -1,5 +1,5 @@
-from core.factory import create_app
-from core.host_config import host_settings
+from mpships_app.core.factory import create_app
+from mpships_app.core.host_config import host_settings
 
 app = create_app()
 

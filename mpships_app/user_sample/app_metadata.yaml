@@ -1,0 +1,6 @@
+app_short_name: DielectricFuncViewer
+app_long_name: dielectric function viewer
+description: app for visualize dielectric function
+author: Min-Hsueh Chiu
+author_git: https://github.com/minhsueh
+preview: ./assets/DielectricFuncViewer.png

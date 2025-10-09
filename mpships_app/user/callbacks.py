@@ -1,4 +1,4 @@
-from ..core.utils import get_mpr
+from core.utils import get_mpr
 
 mpr = get_mpr()
 
